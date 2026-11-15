@@ -7,3 +7,5 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white)
 
 [Открыть приложение на GitHub Pages](https://danbrwn12.github.io/react-props-typescript-2/)
+
+
